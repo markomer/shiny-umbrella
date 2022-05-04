@@ -1,5 +1,5 @@
 from django.views.generic import TemplateView
-from .models import Page
+
 
 
 class HomePageView(TemplateView):
